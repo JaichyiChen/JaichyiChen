@@ -41,7 +41,7 @@ Currently seeking roles in Front-end, Back-end, or Full-Stack.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://tenor.com/view/hello-gif-24408873" align="center" style="width: 100%" />
 </div>  
 
 
