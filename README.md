@@ -12,14 +12,6 @@
 </a>  
   
 
-
-
-### Glad to see you here!  
-I’m currently a senior at Queens College, City university of New York.
-
-Currently seeking roles in Front-end, Back-end, or Full-Stack.  
-  
-
 <br/>  
 
 
