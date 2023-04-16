@@ -16,10 +16,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a full stack project with React(typescript)/SpringBoot
+- 🔭 I’m currently working on a ...
   
 
-- 🌱 I’m currently learning Spring/SpringBoot 
+- 🌱 I’m currently learning Angular 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
